@@ -1,7 +1,7 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 ```
 Name    : Keerthana P
-Ref No. : 212223240045
+Ref No. : 212223240069
 Date    : 18-03-2025
 ```
 ### AIM:
