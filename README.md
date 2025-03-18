@@ -3,7 +3,6 @@
 Name    : Keerthana P
 Ref No. : 212223240045
 Date    : 18-03-2025
-
 ```
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
